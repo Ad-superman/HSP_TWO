@@ -8,7 +8,7 @@ spring:
   application:
     name: inter-hsp-cache
   datasource:
-    url: jdbc:mysql://10.10.10.240:3306/internethsp_two?characterEncoding=UTF-8&useUnicode=true&useSSL=true&serverTimezone=UTC
+    url: jdbc:mysql://10.10.10.240:3306/internethspTwo?characterEncoding=UTF-8&useUnicode=true&useSSL=true&serverTimezone=UTC
     username: internethsp
     password: Internethsp@2020
     driver-class-name: com.mysql.jdbc.Driver
