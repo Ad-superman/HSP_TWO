@@ -117,3 +117,8 @@ logging:
     com:
       codingapi:
         txlcn: DEBUG
+security:
+  oauth2:
+    resource:
+      jwt:
+        key-value: client-secret
