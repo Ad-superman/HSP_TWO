@@ -185,3 +185,8 @@ security:
 #  http://www.cqmbyy120.cn/webApi/refund/orderRefundNotify
 notifyUrl:
   refundUrl: https://boss-beta.wkmhs.com/webApi/refund/orderRefundNotify
+oauth:
+  tokenUrl: http://boss-beta.wkmhs.com/Oauth/oauth/token
+  
+  
+  

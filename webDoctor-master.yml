@@ -173,3 +173,5 @@ security:
         key-value: client-secret
 followUp:
   url: https://h5-beta.wkmhs.com  
+oauth:
+  tokenUrl: http://boss-beta.wkmhs.com/Oauth/oauth/token
