@@ -185,15 +185,15 @@ security:
     resource:
       jwt:
         key-value: client-secret
-#  http://boss-beta.wkmhs.com/webApi/refund/orderRefundNotify 测试
+#  http://boss-beta.cqmbyy.com/webApi/refund/orderRefundNotify 测试
 #  http://boss-dev.wkmhs.com/webApi/refund/orderRefundNotify 开发
 #  http://www.cqmbyy120.cn/webApi/refund/orderRefundNotify
 notifyUrl:
-  refundUrl: https://boss-beta.wkmhs.com/webApi/refund/orderRefundNotify
+  refundUrl: https://boss-beta.cqmbyy.com/webApi/refund/orderRefundNotify
 oauth:
-  tokenUrl: http://boss-beta.wkmhs.com/Oauth/oauth/token
+  tokenUrl: http://boss-beta.cqmbyy.com/Oauth/oauth/token
 followUp:
-  url: https://h5-beta.wkmhs.com
+  url: https://h5-beta.cqmbyy.com
   templateId: ojx9qyZz4Tu72a3wb_v0EfVU99IvJw8m4NFqej-Zl_k #随访提醒模板 api
   templateOrderId: nNq9uZ4GNYyEAv65zBk_IKeKlKsIs1hOavkzbX0PEGo #订单待支付提醒模板 api
   templatePrescriptionNotPayId: l6pculaKrUjkHlVSjAdrNXuDjZufokZ1KQvmL5XSXHc #处方待支付提醒模板 api
